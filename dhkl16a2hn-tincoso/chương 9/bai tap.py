@@ -1,0 +1,11 @@
+str='12,355A6'
+print(type(str))
+print(str[0])
+list=[1,2,3]
+print(type(list))
+tuple=(1,2,3)
+print(type(tuple))
+dict={1:'dog'}
+print(type(dict))
+set={1,2,3,4,}
+print(type(set))
