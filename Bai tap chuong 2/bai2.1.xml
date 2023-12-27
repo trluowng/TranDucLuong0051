@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<Company>
+ <GiamDoc>
+    <FirstName>Nguyễn</FirstName>
+    <LastName>Văn A</LastName>
+    <ContacNo>0901234567</ContacNo>
+    <MST>xxxxxx </MST>
+ <Address>
+    <City>Hà Nội</City>
+    <District>Hai Bà Trưng</District>
+    <Ward>Vĩnh Tuy</Ward>
+    <Street>Minh Khai</Street>
+    <HouseNumber>456</HouseNumber>
+ </Address>
+ </GiamDoc>
+</Company>
